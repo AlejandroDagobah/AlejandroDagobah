@@ -7,7 +7,7 @@
 
 - 👯 I collaborate on **Alchemist.js (not in GitHub Currently)**
 
-- 👨‍💻 All of my projects are available in my <a href="aledevelops.com">website</a>
+- 👨‍💻 All of my projects are available in my <a href="[aledevelops.com](https://aledevelops.com/)">website</a>
 
 - 📫 How to reach me **alejandrodagobah@gmail.com**
 
