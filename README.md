@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, & Unity**
 
-- 👯 I collaborate on **Alchemist.js (not in GitHub Currently)**
+- 👯 I collaborate on **AlchemistWebOS (not in GitHub Currently)**
 
 - 👨‍💻 All of my projects are available in [aledevelops.com](https://aledevelops.com/)
 
