@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alejandrodagobah@gmail.com**
 
-- ⚡ Fun fact **I never went to a convencial school**
+- ⚡ Fun fact **I never went to a convencional school**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
