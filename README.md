@@ -7,7 +7,7 @@
 
 - 👯 I collaborate on **AlchemistWebOS (not in GitHub Currently)**
 
-- 👨‍💻 All of my projects are available in [aledevelops.com](https://aledevelops.com/)
+- 👨‍💻 All of my projects are available in [aledevelops.me](https://aledevelops.me/)
 
 - 📫 How to reach me **alejandrodagobah@gmail.com**
 
